@@ -102,5 +102,5 @@ ng serve
 ## Licença
 Curso do projeto disponibilizado e ensinado no canal de youtube do professor Welligton de Oliveira.
 
--[Youtube - Welligton Oliveira] (https://www.youtube.com/@wellfoz)
+- [Youtube - Welligton Oliveira] (https://www.youtube.com/@wellfoz)
 
