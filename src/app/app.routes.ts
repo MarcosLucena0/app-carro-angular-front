@@ -1,4 +1,4 @@
-import { AcessoriolistComponent } from './components/acessorios/acessoriolist/acessoriolist.component';
+ import { AcessoriolistComponent } from './components/acessorios/acessoriolist/acessoriolist.component';
 import { Routes } from '@angular/router';
 import { LoginComponent } from './components/layout/login/login.component';
 import { PrincipalComponent } from './components/layout/principal/principal.component';

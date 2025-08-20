@@ -19,6 +19,7 @@
           "options": {
             "allowedCommonJsDependencies": ["sweetalert2"],
             "outputPath": "dist/aula",
+            "baseHref": "/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
