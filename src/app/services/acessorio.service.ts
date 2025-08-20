@@ -10,7 +10,9 @@ export class AcessorioService {
 
   http = inject(HttpClient);
 
-  API = "http://localhost:8080/api/acessorio";
+  API = "https://deploy-carros-render.onrender.com/api/acessorio";
+
+  //API = "http://localhost:8080/api/acessorio";
 
   constructor() { }
 

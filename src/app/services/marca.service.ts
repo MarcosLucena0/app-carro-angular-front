@@ -10,7 +10,9 @@ export class MarcaService {
 
     http = inject(HttpClient);
 
-    API = "http://localhost:8080/api/marca";
+    API = "https://deploy-carros-render.onrender.com/api/marca";
+
+    //API = "http://localhost:8080/api/marca";
 
   constructor() { }
 
