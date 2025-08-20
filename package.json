@@ -2,14 +2,13 @@
   "name": "aula",
   "version": "0.0.0",
   "scripts": {
-  "ng": "ng",
-  "start": "ng serve",
-  "build": "ng build --configuration production",
-  "test": "ng test",
-  "lint": "ng lint",
-  "e2e": "ng e2e"
-}
-,
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build --configuration production",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^18.2.13",
@@ -23,7 +22,7 @@
     "@angular/router": "^18.2.13",
     "@fortawesome/fontawesome-free": "^6.0.0",
     "chart.js": "^3.1.1",
-    "mdb-angular-ui-kit": "^6.1.0",
+    "mdb-angular-ui-kit": "^8.0.0",
     "rxjs": "~7.8.0",
     "sweetalert2": "^11.17.2",
     "tslib": "^2.3.0",
